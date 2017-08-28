@@ -3,6 +3,11 @@ VIM packages used by me (citrin).
 
 This repo was created to simplify updating vim packages I use.
 
+Use
+---
+
+    mkdir -p ~/.vim/pack && cd ~/.vim/pack && git clone git@github.com:citrin/c3vimpkg.git
+
 Add plugin
 ----------
 
