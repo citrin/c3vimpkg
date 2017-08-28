@@ -1,2 +1,27 @@
-# c3vimpkg
-vim packages I use
+VIM packages used by me (citrin).
+=================================
+
+This repo was created to simplify updating vim packages I use.
+
+Add plugin
+----------
+
+    git submodule add https://github.com/pluginname ./opt/pluginname
+
+Update vim plugins
+------------------
+
+    git submodule update --remote --merge
+
+Then commit to github:
+
+    git commit -am "Update plugins"
+
+
+Remove plugin
+-------------
+
+    git submodule deinit vim/pack/mypackages/start/nameofplugin
+    git rm vim/pack/mypackages/start/nameofplugin
+    rm -Rf .git/modules/vim/pack/mypackages/start/nameofplugin
+
