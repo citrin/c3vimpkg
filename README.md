@@ -1,5 +1,5 @@
-VIM packages used by me (citrin).
-=================================
+VIM packages used by me (citrin)
+================================
 
 This repo was created to simplify updating vim packages I use.
 
