@@ -1,9 +1,9 @@
 [submodule "opt/delimitMate"]
 	path = opt/delimitMate
-	url = https://github.com/Raimondi/delimitMate.git
+	url = git@github.com:Raimondi/delimitMate.git
 [submodule "opt/vim-go"]
 	path = opt/vim-go
-	url = https://github.com/fatih/vim-go.git
+	url = git@github.com:fatih/vim-go.git
 [submodule "opt/vim-commentary"]
 	path = opt/vim-commentary
-	url = https://github.com/tpope/vim-commentary.git
+	url = git@github.com:tpope/vim-commentary.git
